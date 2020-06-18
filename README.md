@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GMOEA
 
 The official implementation of GMOEA [1] with Pytorch:
@@ -31,3 +32,6 @@ tournament.py is the K-tournament selection [6].
 [5]. Deb K, Beyer H G. Self-adaptive genetic algorithms with simulated binary crossover. Secretary of the SFB 531, 1999.
 
 [6]. Xie H, Zhang M. Tuning Selection Pressure in Tournament Selection[M]. School of Engineering and Computer Science, Victoria University of Wellington, 2009.
+=======
+# Official GMOEA
+>>>>>>> a881d3ca6d80e70f0cccd3412d3c50317ad1fd72
