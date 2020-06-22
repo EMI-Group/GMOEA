@@ -6,6 +6,8 @@ The official implementation of GMOEA [1] with Pytorch:
 
     GAN_model.py is the GAN model used in GMOEA.
 
+    IMMOEA_pro.py: IMF test problems
+
     global_parameter.py is the class including the general parameters for running GMOEA.
 
     mating_selection.py is the mating selection strategy used in GMOEA. Specifically, the mating selection strategy in RSEA [2] is used.
