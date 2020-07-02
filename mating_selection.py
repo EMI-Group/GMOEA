@@ -1,7 +1,8 @@
 import numpy as np
-from Public.tournament import tournament
-from Public.radar_grid import radar_grid
+from tournament import tournament
+from radar_grid import radar_grid
 from scipy.stats import itemfreq
+
 
 def mating_selection(population, Range, n):
     """

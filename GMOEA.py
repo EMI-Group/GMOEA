@@ -1,8 +1,8 @@
-from Algorithm.GMOEA.GAN_model import GAN
-from Public.tournament import tournament
-from Algorithm.GMOEA.spea2_env import *
-from Variation.PM_mutation import pm_mutation
-from Algorithm.GMOEA.spea2_env import environment_selection
+from GAN_model import GAN
+from tournament import tournament
+from spea2_env import *
+from PM_mutation import pm_mutation
+from spea2_env import environment_selection
 
 
 class GMOEA(object):

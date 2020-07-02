@@ -1,5 +1,5 @@
 import numpy as np
-from Public.uniformweight import uniform_point
+from uniformweight import uniform_point
 from scipy.spatial.distance import cdist
 
 
